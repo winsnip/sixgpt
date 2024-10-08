@@ -1,0 +1,2 @@
+# sixgpt
+sixgpt Miner 
